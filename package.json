@@ -11,6 +11,21 @@
 			"require": "./dist/vue-skeleton.umd.js"
 		}
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zynth17/vue-skeleton"
+	},
+	"keywords": [
+		"vue",
+		"tailwindcss",
+		"vue skeleton",
+		"skeleton loader"
+	],
+	"author": "Christopher Reeeve",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/zynth17/vue-skeleton/issues"
+	},
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite",
