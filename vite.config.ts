@@ -16,8 +16,8 @@ export default defineConfig({
 	build: {
 		lib: {
 			entry: path.resolve(__dirname, 'src/components/index.ts'),
-			name: 'MyLib',
-			fileName: format => `my-lib.${format}.js`,
+			name: 'vue skeleton',
+			fileName: format => `vue skeleton.${format}.js`,
 		},
 		rollupOptions: {
 			external: ['vue'],
