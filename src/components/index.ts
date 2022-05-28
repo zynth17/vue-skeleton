@@ -1,4 +1,3 @@
-import HelloWorld from './HelloWorld.vue';
+import VSkeleton from './VSkeleton.vue';
 
-// #TODO change with your imported component
-export { HelloWorld };
+export { VSkeleton };
